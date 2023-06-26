@@ -5,16 +5,16 @@
 PDF Converter
 
 ## Table of Contents
-Installation
-Usage
-Examples
-Contributing
-License
+ Installation
+ Usage
+ Examples
+ Contributing
+ License
 ## Installation
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/pdf-converter.git
+git clone https://github.com/Balaram1820/pdf_to_other_file_format
 Install the required dependencies:
 Copy code
 pip install PyPDF2
